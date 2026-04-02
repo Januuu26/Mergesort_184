@@ -32,3 +32,13 @@ cout << "\n-------------------" << endl;
         cin >> arr[i];
     }
 }
+
+//create merge function
+void mergeSort(int low, int high)
+{
+    
+    if (low >= high)
+    {
+        return;
+    }
+}
