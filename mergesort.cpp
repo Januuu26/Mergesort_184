@@ -22,4 +22,12 @@ void input()
             cout << "\nMaksimal panjang array adalah 20";
         }
     }
+cout << "\n-------------------" << endl;
+cout << "\nInput isi element array" << endl;
+cout << "\n-------------------" << endl;
+
+for (int i = 0; i < n; i++)
+{
+    
+}
 }
