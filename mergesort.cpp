@@ -7,3 +7,12 @@ int arr[20], B[20];
 int n;
 
 void input()
+{
+    while (true)
+    {
+        cout << "Masukan panjang element array : ";
+        cin >> n;
+
+        
+    }
+}
