@@ -26,8 +26,9 @@ cout << "\n-------------------" << endl;
 cout << "\nInput isi element array" << endl;
 cout << "\n-------------------" << endl;
 
-for (int i = 0; i < n; i++)
-{
-    
-}
+    for (int i = 0; i < n; i++)
+    {
+        cout << "Array ke-" << (i + 1) << ": ";
+        cin >> arr[i];
+    }
 }
